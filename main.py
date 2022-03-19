@@ -8,7 +8,7 @@ clearConsole = lambda: os.system('cls' if os.name in ('nt', 'dos') else 'clear')
 
 # Interfase
 print("///////////////////////////////")
-print("This game is tik tak tok")
+print("This game is tic tac toe")
 print("--------------------------------")
 print("---|-1-|-2-|-3-|---")
 print("---|-4-|-5-|-6-|---")
